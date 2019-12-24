@@ -1,0 +1,13 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+# permalink:           pretty
+
+
+# Setup
+title:               'Oda'
+tagline:             'A Jekyll theme'
+description:         'This is oda'
+host:                ''
+baseurl:             ''
+paginate:            5
