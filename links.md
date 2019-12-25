@@ -10,6 +10,7 @@ title: Links
 #### Internet Privacy & Security
 * [What does Google know about me?](https://www.quora.com/What-does-Google-know-about-me/answer/Gabriel-Weinberg)
 * [Startpage](https://www.startpage.com/) (Private search engine using Google search results)
+* [DuckDuckGo Privacy Crash Course](https://spreadprivacy.com/tag/privacy-newsletter/)
 * [Surveillance Self-Defense](https://ssd.eff.org/en)
 
 #### Miscellaneous
