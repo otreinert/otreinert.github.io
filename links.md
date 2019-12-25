@@ -15,4 +15,3 @@ title: Links
 
 #### Miscellaneous
 * [Programming Sucks](https://www.stilldrinking.org/programming-sucks)
-* [The Business Secrets of Drug Dealing - Matt Taibbi](https://taibbi.substack.com/p/chapters-one-and-two-the-business-secrets-of-drug-dealing)
