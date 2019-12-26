@@ -15,3 +15,4 @@ title: Links
 
 #### Miscellaneous
 * [Programming Sucks](https://www.stilldrinking.org/programming-sucks)
+* [Japan's Yakuza: Inside the syndicate - The Economist](https://www.youtube.com/watch?v=AOhuUxtxrmg)
